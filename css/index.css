@@ -204,11 +204,11 @@ button:hover {
 .artist img {
   width: 100%;
 }
+
 /* styling for 500px starts here */
 
 @media screen and (max-width: 500px) {
- 
-    /*HEADER STYLES */
+  /*HEADER STYLES */
 
   nav a {
     margin: 6%;
@@ -240,19 +240,16 @@ button:hover {
     font-weight: bold;
     margin-top: 38px;
   }
-  
+
   .title-container hr {
     width: 100%;
   }
 
+  /* Section /artist-container Styles*/
 
   .artists-container {
     flex-direction: column;
     align-items: center;
-  }
-  img {
-    height: 170px;
-    padding-top: 16px;
   }
 
   .artist {
@@ -262,6 +259,8 @@ button:hover {
 
   .artist img {
     margin-bottom: 10px;
+    height: 170px;
+    padding-top: 16px;
   }
 
   .artist a {
@@ -274,5 +273,4 @@ button:hover {
   body {
     padding-bottom: 90px;
   }
-
-
+}
