@@ -216,8 +216,9 @@ button:hover {
   /*Title Section Styles*/
 
   .title-container div {
+    background-repeat: no-repeat;
+    background-size: 160%;
     width: 100vw;
-    line-height: 400%;
     margin-bottom: 6px;
   }
   .artists-container {
@@ -244,5 +245,8 @@ button:hover {
   .bio {
     font-size: 0.8rem;
     margin: 11px -22px;
+  }
+  body {
+    padding-bottom: 90px;
   }
 }
