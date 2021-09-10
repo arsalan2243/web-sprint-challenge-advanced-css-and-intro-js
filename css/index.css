@@ -217,17 +217,24 @@ button:hover {
 
   .title-container div {
     background-repeat: no-repeat;
-    background-size: 160%;
+    background-size: 220%;
     width: 100vw;
     margin-bottom: 6px;
+    height: 350px;
   }
   .artists-container {
     flex-direction: column;
     align-items: center;
   }
   img {
-    height: 160px;
+    height: 170px;
     padding-top: 16px;
+  }
+  nav {
+    justify-content: space-around;
+  }
+  a {
+    font-size: 1.1rem;
   }
 
   .artist {
@@ -248,5 +255,10 @@ button:hover {
   }
   body {
     padding-bottom: 90px;
+  }
+  h1 {
+    font-size: 29px;
+    font-weight: bold;
+    margin-top: 38px;
   }
 }
