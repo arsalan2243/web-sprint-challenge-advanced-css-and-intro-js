@@ -219,5 +219,6 @@ button:hover {
     margin-left: 33%;
   }
   img {
-    height
+    height: 130px;
+  }
 }
