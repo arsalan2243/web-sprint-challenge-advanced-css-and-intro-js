@@ -218,7 +218,7 @@ button:hover {
   .title-container div {
     background-repeat: no-repeat;
     background-size: 220%;
-    width: 100vw;
+    width: 800px;
     margin-bottom: 6px;
     height: 350px;
   }
@@ -233,8 +233,14 @@ button:hover {
   nav {
     justify-content: space-around;
   }
-  a {
-    font-size: 1.1rem;
+  nav a {
+    font-size: 1.3rem;
+    margin: -1% 10%;
+    padding: 2px;
+  }
+
+  nav span {
+    border-left: 1px solid black;
   }
 
   .artist {
@@ -250,7 +256,7 @@ button:hover {
     font-size: 1.4rem;
   }
   .bio {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     margin: 11px -22px;
   }
   body {
