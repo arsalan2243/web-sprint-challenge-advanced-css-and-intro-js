@@ -22,27 +22,27 @@ Commit your code regularly and meaningfully.
 
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
-1. How would you describe acessibility on the web to someone new to programming?
+1. How would you describe accessibility on the web to someone new to programming?
 
-acessibility on the web page means it's acceible to a broad range of users. a webpage made on this principle can be fully utilized by people with or without disability alike, such as visually impaired.
+accessibility on the web page means it's accessible to a broad range of users. a webpage made on this principle can be fully utilized by people with or without disability alike, such as visually impaired.
 
 2. Talk about 3 different things you can do to ensure your website is accessible.
 
-1- i will utilize alt attribites of img tag to the describe pictures fully, in order for it to be accessible to visually impaired.
-2- since semantic elements are useful for visually impaired to navigate and use a website, i will make sure to use many semantic elemnts, in order to make it accessible to visually impaired.
-3- links need meaningful, descitiptive names, in order to be utilized fully by visually impaired, so i will make sure to give them meaninful and desciptive names.
+1- i will utilize alt attributes of img tag to the describe pictures fully, in order for it to be accessible to visually impaired.
+2- since semantic elements are useful for visually impaired to navigate and use a website, i will make sure to use many semantic elements, in order to make it accessible to visually impaired.
+3- links need meaningful, descriptive names, in order to be utilized fully by visually impaired, so i will make sure to give them meaningful and descriptive names.
 
 3. How would you explain the concept of a variable to someone new to programming?
 
-var is a temporary location in which our data is stored in. those informations can be recalled and used any time we need them. it is possible to visualize var as a contianer which holds some stuff or as a bookshelf that contain books (as many as we put in bookshelf) which is accessible anytime we desire.
+var is a temporary location in which our data is stored in. those information can be recalled and used any time we need them. it is possible to visualize var as a container which holds some stuff or as a bookshelf that contain books (as many as we put in bookshelf) which is accessible anytime we desire.
 
 4. What is the purpose of using functions in code?
 
-it prevents unncessary code writing. functions can essentially reduce an entire lines of code to one word, and now, instead of writing those codes again, that one word (assigned using function) can be used to summon those lines of code as many times as neeeded.
+it prevents unnecessary code writing. functions can essentially reduce an entire lines of code to one word, and now, instead of writing those codes again, that one word (assigned using function) can be used to summon those lines of code as many times as needed.
 
 5. How do you access a key inside of an object inside of an array?
 
-After calling the objects, we go inisde the objects to access key.
+After calling the objects, we go inside the objects to access key.
 which is written like this:
 array [index of object].key
 
