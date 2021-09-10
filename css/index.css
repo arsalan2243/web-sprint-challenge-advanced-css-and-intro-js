@@ -234,7 +234,15 @@ button:hover {
     font-size: 10px;
   }
 
+  .artist img {
+    margin-bottom: 10px;
+  }
+
   .artist a {
     font-size: 1.4rem;
+  }
+  .bio {
+    font-size: 0.8rem;
+    margin: 11px -22px;
   }
 }
