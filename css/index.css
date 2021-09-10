@@ -214,4 +214,10 @@ button:hover {
     width: 100%;
     line-height: 400%;
   }
+  .artists-container {
+    display: block;
+    margin-left: 33%;
+  }
+  img {
+    height
 }
